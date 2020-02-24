@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Arrays_tool_class/arrays.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/APItest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/list/arraylist.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/list/linkedkist.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/list/listTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/list/vector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/set/hashset.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/set/linkedhashset.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/set/setAPItext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collection/set/treeset.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Collections_api_test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Map/APItest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Map/jdbc.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Map/maptext.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/collection_and_map/Map/properties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/Singleton/SingleTon.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/ThreadText/saleTicket.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/ThreadText/saleTicket2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/Threadmethod/ThreadMethodText.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/Threadmethod/ThreadPriority.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/createThread/method1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/createThread/method4.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/createThread/methon2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/thread/createThread/methon3.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
