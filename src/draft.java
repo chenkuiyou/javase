@@ -7,13 +7,17 @@ import java.util.Collection;
 import java.util.Spliterator;
 
 /**
+ *
+ * 这个是草稿
  * @author cky
  * @create 2020 2 20 15:20
  */
 public class draft {
     public static void main(String[] args) {
-        int []a={1,2,3,4,5,6};
-        Arrays.sort(a);
-        System.out.println(a);
+        System.out.println("......");
     }
+
+}
+class textforgit{
+
 }
